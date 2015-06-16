@@ -18,4 +18,4 @@ Your feedback will help us shape the future of this product! For questions, comm
 
 Legal
 
-This SDK is available under the Apache license (please see separate License file). Other usage is covered by Qordoba’s terms of service.
+This SDK is available under the Apache license (please see separate License file). Other usage is covered by Qordoba’s [terms of service](http://www.qordoba.com/terms.html).

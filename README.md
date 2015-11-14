@@ -6,9 +6,17 @@ Requirements
 
 Qordoba iOS SDK is compatible with iOS versions 7.0 and above. 
 
+
+CocoaPods:
+
+[![Version](https://img.shields.io/cocoapods/v/Qordoba-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/Qordoba-iOS-SDK)
+[![License](https://img.shields.io/cocoapods/l/Qordoba-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/Qordoba-iOS-SDK)
+[![Platform](https://img.shields.io/cocoapods/p/Qordoba-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/Qordoba-iOS-SDK)
+
+
 Installation and Setup
 
-Detailed instructions and documentation are available at developers.qordoba.com/ios.  
+Detailed instructions and documentation are available at https://developers.qordoba.com
 
 
 Feedback

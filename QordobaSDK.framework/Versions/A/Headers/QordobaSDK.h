@@ -9,6 +9,10 @@
 #import <UIKit/UIKit.h>
 #import "QSDKConfiguration.h"
 
+#if __IPHONE_OS_VERSION_MIN_REQUIRED < 70000
+#error "QordobaSDK doesn't support iOS 6.x and lower. Please, change your minimum deployment target to iOS 7.0"
+#endif
+
 /*
     QordobaSDK class is used for the SDK initialization
  */

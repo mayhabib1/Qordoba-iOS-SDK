@@ -8,10 +8,8 @@
 /*
     QLang object that represents localization language release, that you created during release process on https://app.qordoba.com/
     params:
-        @languageId   - Local language id used by qordoba solution
         @languageCode - Language code (example: en-us)
         @languageName - Human readable name of the language (example: Polish - Poland)
-        @releaseId    - ID of the live release that this language represents
  */
 @interface QLang : NSObject
 @property (nonatomic, strong) NSString *languageCode;

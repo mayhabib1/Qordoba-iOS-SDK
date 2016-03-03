@@ -12,10 +12,10 @@
 /*
     Check if this UI element is marked as containing hardcoded string
  */
-- (BOOL)isHardcodedStringsSupported;
+- (BOOL)isStringsLocEnabled;
 
 /*
     Mark this UI element as containing hardcoded string
  */
-- (void)enableHardcodedStringsSupport:(BOOL)flag;
+- (void)enableStringsLoc:(BOOL)flag;
 @end

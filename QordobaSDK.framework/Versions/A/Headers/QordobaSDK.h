@@ -32,6 +32,14 @@
 + (void)startWithKey:(NSString *)key andApplicationId:(NSString *)applicationId manualLanguageSwitch:(BOOL)manualLanguageSwitch;
 
 /*
+    Start Qordoba SDK passing sandbox or production key and application id.
+    preDownloadReleases -> choose the way releases are downloaded
+        YES -> When SDK starts, it will download all available live releases (latest versions)
+        NO  -> When SDK starts, it will download only available live release for current language
+ */
++ (void)startWithKey:(NSString *)key andApplicationId:(NSString *)applicationId preDownloadReleases:(BOOL)preDownloadReleases;
+
+/*
     Start Qordoba SDK with configuration object
     NSString *key                   -> set production/sandbox key
     NSString *applicationId         -> set application id

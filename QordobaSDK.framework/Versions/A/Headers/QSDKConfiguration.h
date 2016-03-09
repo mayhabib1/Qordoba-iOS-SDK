@@ -11,6 +11,7 @@
 @property (nonatomic, assign) BOOL manualLanguageSwitch;
 @property (nonatomic, assign) BOOL debugMode;
 @property (nonatomic, assign) BOOL predownloadReleases;
+@property (nonatomic, assign) BOOL excludeRegionForRelease;
 @property (nonatomic, assign) BOOL autoInitialization;
 @property (nonatomic, assign) NSUInteger productionResourceSyncIntervalInSeconds;
 

@@ -1,0 +1,8 @@
+framework module QordobaSDK {
+    header "QordobaSDK.h"
+    header "QSDKConfiguration.h"
+    header "QordobaSDKLanguages.h"
+    header "UIView+Qordoba.h"
+    
+    export *
+}

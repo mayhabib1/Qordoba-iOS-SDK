@@ -14,6 +14,7 @@
 @property (nonatomic, assign) BOOL excludeRegionForRelease;
 @property (nonatomic, assign) BOOL autoInitialization;
 @property (nonatomic, assign) NSUInteger productionResourceSyncIntervalInSeconds;
+@property (nonatomic, assign) float screenshotQuality; // from 0.0 (lowest) to the 1.0 (highest). Default is 0.5
 
 - (instancetype)initWithKey:(NSString *)key andApplicationId:(NSString *)applicationId;
 

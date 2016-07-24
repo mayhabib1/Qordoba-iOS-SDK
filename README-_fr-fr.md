@@ -1,4 +1,4 @@
-# Intro à l'iOS SDK Qordoba
+# Intro à l'iOS SDK Qordoba TEST
 
 
 Le SDK de Qordoba permet agile, l'internationalisation intelligente pour les applications iOS natives. Avantages de la localisation via un SDK par rapport aux méthodes basées sur des fichiers suivants:
@@ -42,4 +42,4 @@ Vos commentaires nous aideront à façonner l'avenir de ce produit! Pour des que
 
 **1. Installer via CocoaPods: **
 
-[![Version] (https://img.shields.io/cocoapods/v/Qordoba-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/Qordoba-iOS-SDK)
+[![Version] (https://img.shields.io/cocoapods/v/Qordoba-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/Qordoba-iOS-

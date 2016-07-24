@@ -31,7 +31,7 @@ Detailed manual installation instructions are available at https://developers.qo
 
 ### Feedback
 
-Your feedback will help us shape the future of this product! For questions, comments, suggestions or feedback, please message us at support@qordoba.com.
+Your feedback will help us shape the future of this product! For questions, comments, suggestions or feedback, please send a note to support@qordoba.com.
 
 
 ### Legal
